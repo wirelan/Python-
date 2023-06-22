@@ -1,0 +1,9 @@
+# In this artcle we are going to learn different ways or methods to write a basic program of python that is to print "Welcome to CyberWireLAN". (Basically we are going to print simple text or words through Python).
+
+# Below are the methods through which we are going to use to print "Hello World!".
+# 1. Using print() function
+# 2. Using Loop
+# 3. Using a function
+# 4. Using a Class
+
+# Using print function()
